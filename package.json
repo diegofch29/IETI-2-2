@@ -1,0 +1,22 @@
+{
+  "name": "task-planner",
+  "version": "1.0.0",
+  "description": "Laboratorio ITETI 2.2",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegofch29/IETI-2-2.git"
+  },
+  "author": "Diego Fernando Chinchilla Bautista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegofch29/IETI-2-2/issues"
+  },
+  "homepage": "https://github.com/diegofch29/IETI-2-2#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
